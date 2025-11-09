@@ -1,6 +1,6 @@
 <html>
   
-# 🧑‍💻Inupa Maditha
+# 🧑‍💻 Inupa Maditha
 
 > - **Full Stack Developer | Software Engineer** 
 
@@ -11,39 +11,45 @@
  <img src="github.jpg" width="22px" height="22px"> **GitHub:** [Inupa-Maditha](https://github.com/Inupa-Maditha)
 
 ---
+<br>
 
 ## 🌱 About Me
 > I'm a passionate developer with a love for building innovative solutions and learning new technologies.  
 > I enjoy working on projects that make a positive impact and collaborating with other developers to create meaningful applications.
 
+<br>
 
 ### 🎓 Education
 
- - Bachelor of Science (Hons) in Computer Science & Technology
-> _Uva Wellassa University of Sri Lanka_ | **Undergraduate**
+- Bachelor of Science (Hons) in Computer Science & Technology 
+> - _Uva Wellassa University of Sri Lanka_
+> - _Undergraduate_
 
 ### 🏅 Certifications
 - AWS Certified Solutions Architect  
-- MongoDB Certified Developer  
-
+<!-- - MongoDB Certified Developer  
+-->
 ---
+<br>
 
 ## ⚙️ Technical Skills
 
 | Category | Skills |
 |-----------|--------|
-| **Languages** | C, Python, JavaScript, HTML5 / CSS3 |
-| **Frontend** | React.js, Next.js |
-| **Backend** | Node.js, Django |
-| **Database** | MySQL, MongoDB |
-| **Tools & DevOps** | Git / GitHub, Docker, AWS / Azure |
+| **Languages** | C, HTML5 / CSS3 |    <!-- Python, JavaScript -->
+| **Frontend** |  |                    <!--React.js, Next.js-->
+| **Backend** |  |                     <!--Node.js, Django-->
+| **Database** |  |                    <!--MySQL, MongoDB-->
+| **Tools & DevOps** | Git / GitHub |  <!--, Docker, AWS / Azure-->
 
 ---
+<br>
 
 ## 💼 Professional Experience
 *(Add details here when available)*  
 
 ---
+<br>
 
 ## 🚀 Featured Project
 *(Add details here when available)*
