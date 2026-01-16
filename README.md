@@ -36,8 +36,8 @@
 
 | Category | Skills |
 |-----------|--------|
-| **Languages** | C, HTML5 / CSS3 |    <!-- Python, JavaScript -->
-| **Frontend** |  |                    <!--React.js, Next.js-->
+| **Languages** | HTML5 / CSS3 , C , JavaScript , Dart |    <!-- Python, JavaScript -->
+| **Frontend** | Flutter |                    <!--React.js, Next.js-->
 | **Backend** |  |                     <!--Node.js, Django-->
 | **Database** |  |                    <!--MySQL, MongoDB-->
 | **Tools & DevOps** | Git / GitHub |  <!--, Docker, AWS / Azure-->
