@@ -26,12 +26,12 @@
 > - _Undergraduate_
 <br>
 
-
+<!--
 ## 🏅 Certifications
 - AWS Certified Solutions Architect  
-<!-- - MongoDB Certified Developer  -->
+<!-- - MongoDB Certified Developer  
 <br>
-
+-->
 
 ## ⚙️ Technical Skills
 
@@ -44,7 +44,7 @@
 | **Tools & DevOps** | Git / GitHub |                       <!--, Docker, AWS / Azure-->
 <br>
 
-
+<!--
 ## 💼 Professional Experience
 
 *(Not available)* 
@@ -55,11 +55,11 @@
 ## 🚀 Featured Project
 
 *(Not available)*
-<!--
+
 ### **Project Name 1**
 > This is a small description about the project.
 **Technologies:** React, Node.js, MongoDB, Docker
--->
-<br>
 
+<br>
+-->
 </html>
